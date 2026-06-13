@@ -24,3 +24,13 @@ An AI-powered web app that predicts AQI based on pollutant levels (PM2.5, PM10, 
 1. Open `Untitled0.ipynb` in Google Colab
 2. Run all cells — this downloads data, trains the model, and saves `aqi_model.pkl`
 3. Run the Streamlit app:
+## Future plans
+- Integrate live sensor/satellite data for real-time monitoring
+- Expand to multiple cities and regions
+- Add map-based visualization of pollution hotspots
+- Connect with city alert systems for high-pollution warnings
+
+## Feature Importance
+
+
+![Feature Importance](feature_importance.png) ты мне это еще скинул. Это нужно?
